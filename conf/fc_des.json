@@ -1,0 +1,3071 @@
+{
+  "feature_columns": [
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_0",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_0",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_2",
+      "hash_bucket_size": 1000,
+      "shared_name": "feature_2",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_3",
+      "hash_bucket_size": 1000,
+      "shared_name": "feature_3",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_4",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_4",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_5_1",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_5_2",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_5_3",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_5_4",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_5_5",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_6",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_6",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7_1",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_7",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7_2",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_7",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7_3",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_7",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7_4",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_7",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7_5",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_7",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_10",
+      "hash_bucket_size": 4,
+      "shared_name": "feature_10",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_11",
+      "hash_bucket_size": 4,
+      "shared_name": "feature_11",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_12",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_13",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_15",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_16",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_18",
+      "hash_bucket_size": 10000,
+      "shared_name": "feature_18",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_19",
+      "hash_bucket_size": 30000,
+      "shared_name": "feature_19",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_20",
+      "shared_name": "feature_20",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_21",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_22",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_23",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_24",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_25",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_26",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_27",
+      "shared_name": "feature_27",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_28",
+      "shared_name": "feature_28",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_29",
+      "shared_name": "feature_29",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_30",
+      "shared_name": "feature_30",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_31",
+      "shared_name": "feature_31",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_32",
+      "shared_name": "feature_32",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_33",
+      "shared_name": "feature_33",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_34",
+      "shared_name": "feature_34",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_35",
+      "shared_name": "feature_35",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_36",
+      "shared_name": "feature_36",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_37",
+      "shared_name": "feature_37",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_38",
+      "shared_name": "feature_38",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_39",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_40",
+      "shared_name": "feature_40",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_41",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_42",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_43",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_44",
+      "shared_name": "feature_44",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_45",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_46",
+      "shared_name": "feature_46",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_47",
+      "shared_name": "feature_47",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_48",
+      "hash_bucket_size": 50000,
+      "shared_name": "feature_48",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_49",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_50",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_51",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_52",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_53",
+      "hash_bucket_size": 5,
+      "shared_name": "feature_53",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_54",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_55",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_56",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_57",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_58",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_59",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_61",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_10866",
+      "hash_bucket_size": 8,
+      "shared_name": "feature_10866",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_62",
+      "hash_bucket_size": 7,
+      "shared_name": "feature_62",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_63",
+      "shared_name": "feature_63",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_64",
+      "shared_name": "feature_64",
+      "transform_name": "embedding_column"
+    },
+    {
+      "boundaries": "0.5",
+      "embedding_dimension": 32,
+      "feature_name": "feature_65",
+      "shared_name": "feature_65",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_66",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_67_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_68_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_69_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_70_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_71_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_72_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_73_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_74_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_75_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_76_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_77_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_78_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_79_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_80_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_81_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_82_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_83_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_84_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_85_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_86_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_67_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_68_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_69_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_70_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_71_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_72_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_73_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_74_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_75_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_76_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_77_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_78_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_79_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_80_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_81_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_82_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_83_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_84_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_85_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_86_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_87_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_67_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_68_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_69_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_70_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_71_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_72_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_73_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_74_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_75_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_76_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_77_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_78_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_79_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_80_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_81_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_82_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_83_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_84_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_85_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_86_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_87_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_88_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_89_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_90_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_91_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_92_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_93_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_94_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_95_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_96_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_97_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_98_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_99_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_100_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_101_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_102_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_103_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_88_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_89_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_90_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_91_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_92_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_93_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_94_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_95_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_96_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_97_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_98_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_99_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_100_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_101_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_102_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_103_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_88_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_89_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_90_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_91_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_92_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_93_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_94_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_95_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_96_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_97_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_98_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_99_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_100_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_101_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_102_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_103_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_106_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_106_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_106_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_106_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_106_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_107_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_107_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_107_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_107_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_107_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_108_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_108_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_108_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_108_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_108_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_109_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_109_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_109_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_109_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_109_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_110_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_110_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_110_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_110_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_110_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_111_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_111_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_111_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_111_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_111_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_112_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_112_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_112_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_112_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_112_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_113_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_113_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_113_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_113_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_113_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_114_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_114_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_114_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_114_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_114_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_115_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_115_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_115_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_115_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_115_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_116_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_116_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_116_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_116_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_116_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_117_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_117_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_117_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_117_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_117_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_118_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_118_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_118_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_118_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_118_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_119_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_119_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_119_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_119_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_119_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_120_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_120_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_120_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_120_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_120_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_121_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_121_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_121_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_121_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_121_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_122_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_122_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_122_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_122_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_122_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_123_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_123_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_123_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_123_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_123_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_124_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_124_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_124_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_124_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_124_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_125_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_125_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_125_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_125_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_125_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_126_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_126_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_126_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_126_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_126_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_127_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_127_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_127_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_127_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_127_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_128_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_128_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_128_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_128_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_128_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_129_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_129_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_129_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_129_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_129_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_130_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_130_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_130_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_130_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_130_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_131_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_131_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_131_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_131_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_132_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_132_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_132_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_132_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_132_60",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_133_3",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_133_7",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_133_14",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_133_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_134_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1366_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_135_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1367_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_136_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1368_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_137_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1369_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_138_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1370_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_139_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1371_30",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_7671_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_4",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_140_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_141_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_142_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_143_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_10804_30",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_5",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_144",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_145",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_146",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_813",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_813",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_814",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_814",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_815",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_815",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1372",
+      "hash_bucket_size": 200,
+      "shared_name": "feature_1372",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_816",
+      "hash_bucket_size": 500,
+      "shared_name": "feature_816",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_817",
+      "hash_bucket_size": 50,
+      "shared_name": "feature_817",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_818",
+      "hash_bucket_size": 200,
+      "shared_name": "feature_818",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_819",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_819",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_820",
+      "hash_bucket_size": 200,
+      "shared_name": "feature_820",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_821",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_821",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_822",
+      "hash_bucket_size": 1000,
+      "shared_name": "feature_822",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_823",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_823",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_824",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_824",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1373",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_1373",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1374",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_1374",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1375",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_1375",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1376",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_1376",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_1377",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_1377",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_826",
+      "hash_bucket_size": 200,
+      "shared_name": "feature_826",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_827",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_827",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_10853",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_10853",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_147",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_147",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_148",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_148",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_828",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_828",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_829",
+      "hash_bucket_size": 50,
+      "shared_name": "feature_829",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_830",
+      "hash_bucket_size": 500,
+      "shared_name": "feature_830",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_831",
+      "hash_bucket_size": 10000,
+      "shared_name": "feature_831",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_832",
+      "hash_bucket_size": 1000,
+      "shared_name": "feature_832",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_833",
+      "hash_bucket_size": 50000,
+      "shared_name": "feature_833",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_834",
+      "hash_bucket_size": 50,
+      "shared_name": "feature_834",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_835",
+      "hash_bucket_size": 10,
+      "shared_name": "feature_835",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_836",
+      "hash_bucket_size": 50,
+      "shared_name": "feature_836",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_837",
+      "hash_bucket_size": 50,
+      "shared_name": "feature_837",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_149_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_150_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_151",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_152",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_153",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_154",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_155",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_156",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_838",
+      "hash_bucket_size": 1000,
+      "shared_name": "feature_838",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_157_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_158_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_159_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_160_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_161_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_162_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_163_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_164_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_165_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_166_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_167_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_168_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_169_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_157_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_158_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_159_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_160_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_161_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_162_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_163_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_164_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_165_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_166_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_167_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_168_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_169_14d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_157_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_158_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_159_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_160_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_161_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_162_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_163_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_164_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_165_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_166_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_167_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_168_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_169_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_157_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_158_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_159_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_160_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_161_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_162_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_163_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_164_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_165_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_166_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_167_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_168_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_169_60d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_157_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_158_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_159_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_160_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_161_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_162_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_163_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_164_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_165_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_166_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_167_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_168_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_169_90d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_172_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_173_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_174_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_175_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_176_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_177_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_178_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_179_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_172_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_173_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_174_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_175_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_176_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_177_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_178_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_179_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_172_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_173_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_174_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_175_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_176_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_177_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_178_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_179_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_172_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_173_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_174_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_175_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_176_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_177_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_178_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_179_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_172_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_173_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_174_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_175_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_176_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_177_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_178_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_179_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_180_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_181_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_182_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_183_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_184_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_185_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_186_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_187_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_188_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_189_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_190_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_191_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_192_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_193_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_194_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_195_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_196_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_197_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_198_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_199_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_200_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_180_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_181_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_182_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_183_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_184_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_185_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_186_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_187_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_188_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_189_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_190_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_191_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_192_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_193_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_194_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_195_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_196_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_197_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_198_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_199_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_200_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_180_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_181_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_182_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_183_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_184_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_185_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_186_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_187_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_188_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_189_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_190_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_191_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_192_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_193_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_194_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_195_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_196_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_197_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_198_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_199_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_200_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_201_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_202_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_203_7d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_201_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_202_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_203_2w",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_201_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_202_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_203_1m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_201_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_202_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_203_2m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_201_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_202_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_203_3m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_290",
+      "transform_name": "real_valued_column",
+      "value_dimension": 99
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_204",
+      "hash_bucket_size": 20000,
+      "shared_name": "feature_204",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_205",
+      "hash_bucket_size": 10000,
+      "shared_name": "feature_205",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_839",
+      "hash_bucket_size": 10000,
+      "shared_name": "feature_839",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_206",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_206",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_207",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_208",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_209",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_210",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_211",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_212",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_213",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_214",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_215",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_216",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_217",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_218",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_219",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_220",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_221",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_222",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_223",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_224",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_225",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_226",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_227",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_228",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_229",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_230",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_238_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_239_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_240_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_241_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_242_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_243_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_244_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_245_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_246_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_247_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_248_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_249_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_250_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_251_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_252_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_253_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_254_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_255_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_256_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_257_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_258_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_259_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_260_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_261_180d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_262",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_262",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_263",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_263",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_264",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_264",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_265",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_265",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_266",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_266",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_267",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_267",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_268",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_268",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_269",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_269",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_270",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_270",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_271",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_271",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_272",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_272",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_10867",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_10867",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_273",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_273",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_274",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_274",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_275",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_275",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_276",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_276",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_277",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_277",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_278",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_278",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_279",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_279",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_280",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_281",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_282",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_283_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_284_30d",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_285",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_286",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_287",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_288",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_289",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_825",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_825",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_840",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_840",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_231",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_231",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_841",
+      "hash_bucket_size": 100,
+      "shared_name": "feature_841",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_842",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_842",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_843",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_843",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_844",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_844",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_845",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_845",
+      "transform_name": "embedding_column"
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_846",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_846",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_232_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_233_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_234_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_235_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_236_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_237_6m",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_847",
+      "transform_name": "real_valued_column",
+      "value_dimension": 12
+    },
+    {
+      "feature_name": "feature_291",
+      "transform_name": "real_valued_column",
+      "value_dimension": 12
+    },
+    {
+      "feature_name": "feature_848",
+      "transform_name": "real_valued_column",
+      "value_dimension": 12
+    },
+    {
+      "embedding_dimension": 32,
+      "feature_name": "feature_292",
+      "hash_bucket_size": 20,
+      "shared_name": "feature_292",
+      "transform_name": "embedding_column"
+    },
+    {
+      "feature_name": "feature_795",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_796",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_797",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_798",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_799",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_800",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1062",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_950",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_951",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_1378",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "feature_name": "feature_849",
+      "transform_name": "real_valued_column"
+    },
+    {
+      "embedding_dimension": 16,
+      "feature_name": "feature_1",
+      "hash_bucket_size": 80000,
+      "shared_name": "feature_1",
+      "transform_name": "embedding_column"
+    }
+  ]
+}
